@@ -1,0 +1,15 @@
+// To create first folder
+mkdir beverages
+// To create second folder
+mkdir coffee
+// To create a text file
+touch detail.txt
+//Write something in the file using vi editor
+vi detail.txt
+//To  move file to folder 2
+mv detail.txt coffee
+// list all file in folder 2
+ls coffee
+/// delete folder 1
+rmdir beverages
+ls
